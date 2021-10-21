@@ -1,0 +1,24 @@
+
+            .h,A{
+                    color:  white;
+                    font-family: Lobster;
+              }
+
+
+            .h{
+                    font-size:32px;
+                    line-height: 5px;
+                     
+            } 
+             A[href*="content/"]{
+                margin: 3px;
+                
+                
+            }
+
+            body{
+                background-image: url("foto/yzor.jpg");
+                background-size: cover;
+            }
+            
+           

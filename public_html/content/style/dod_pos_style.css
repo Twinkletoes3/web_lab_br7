@@ -1,0 +1,25 @@
+              table{
+                border-radius: 20px;
+                opacity: 0,7; 
+                
+                }
+                
+               td{
+                    background-color: black;
+                    opacity: 0.7;
+                    color: whitesmoke;
+                    
+                }
+                td#nobg{
+                    opacity: 1;
+                    
+                }
+            img{
+                width: 400px;
+                height:250px; 
+            }
+            body{
+                background: url("foto/banbg.jpg");
+                background-size: cover;
+            }
+            

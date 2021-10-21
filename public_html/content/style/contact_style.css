@@ -1,0 +1,19 @@
+ body{
+                background: url("foto/resep.jpg") no-repeat;
+                background-size: cover;
+            }
+            *{
+                color: white;
+                line-height: 24px;
+                font-size: 25px;
+                font-family: Lobster;
+             }
+             div{
+                 float: top;
+                 background-color: black;
+                opacity: 0.8;
+             }
+             h5+p{
+                 color: red;
+             }
+           
